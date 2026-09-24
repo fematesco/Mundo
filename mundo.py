@@ -247,7 +247,7 @@ prompt = (
     "Resuma o progresso REAL do grupo nessas horas, de forma proporcional ao tempo. "
     "Se algum recurso estiver abaixo de 20, mostre a tensão. "
     "Responda SOMENTE em JSON:\n"
-    '{"balanco": "2-3 frases sobre o que o grupo conquistou ou perdeu", '
+    '{"balanco": "25 palavras sobre o que o grupo conquistou ou perdeu", '
     '"delta": {"agua": 0, "comida": 0, "abrigo": 0, "fogo": 0, "saude": 0, "moral": 0, "sinalizacao": 0}, '
     '"itens_novos": []}\n'
     "Em delta, use números (positivos ou negativos) que reflitam o efeito das ações."
