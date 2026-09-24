@@ -20,6 +20,6 @@ jobs:
       - run: |
           git config user.name bot
           git config user.email bot@example.com
-          git add mundo.md
+          git add mundo.md relacoes.json
           git commit -m turno || exit 0
           git push
