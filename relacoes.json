@@ -1,0 +1,18 @@
+{
+ "Luna": {
+  "Arthur": "Um homem ferido que se esconde atrás da resignação, mas sinto que há esperança d"
+ },
+ "Bento": {
+  "Luna": "Mulher de bom senso, sabe ouvir. Confia demais em estranho, mas tem um coração q"
+ },
+ "Mila": {
+  "Arthur": "Tipo dramático demais, mas se ele realmente carrega alguma maldição, talvez tenh",
+  "Luna": "Ingênua, mas tem acesso a conhecimento sobre ervas - pode ser útil para negócios",
+  "Bento": "Cético e observador, respeito isso - alguém com bom senso nessa vila maluca"
+ },
+ "Arthur": {
+  "Luna": "Ingênua demais, mas tem um coração que não deveria existir em um lugar como este",
+  "Bento": "Pelo menos não é totalmente cego. Desconfiado como eu - talvez tenhamos algo em ",
+  "Mila": "Ganância disfarçada de curiosidade. Típico."
+ }
+}
