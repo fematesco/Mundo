@@ -1,0 +1,27 @@
+{
+ "inicio": "2026-09-24T00:52:51.860852-03:00",
+ "ultimo": "2026-09-24T00:52:51.860852-03:00",
+ "recursos": {
+  "agua": 16.0,
+  "comida": 14.0,
+  "abrigo": 13.0,
+  "fogo": 0,
+  "saude": 68.0,
+  "moral": 57.7,
+  "sinalizacao": 0
+ },
+ "marcos": [],
+ "usados": [
+  "Um ferimento mais sério é notado e precisa ser tratado com o kit de primeiros socorros."
+ ],
+ "historia": [
+  "D1 · 00:52: Alex estabilizou o ferimento grave com o kit de primeiros socorros, evitando uma deterioração crítica da saúde do grupo. Damaris e Felipe garantiram um abrigo básico protegido do vento e mantiveram a moral através do diálogo constante, enquanto Gleidy monitorava o ferido durante a vigília. O grupo conquistou sobrevivência imediata, mas a água está perigosamente baixa (18/100) e o fogo segue ausente na madrugada gelada."
+ ],
+ "itens": [
+  "destroços do avião na praia",
+  "Kit de primeiros socorros (parcialmente usado)",
+  "2x garrafas plásticas intactas",
+  "Lanterna de emergência"
+ ],
+ "fim": false
+}

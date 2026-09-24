@@ -1,22 +1,19 @@
 {
- "Luna": {
-  "Arthur": "Um homem ferido que se esconde atrás da resignação, mas vejo agora uma certa pro",
-  "Mila": "Ambiciosa e alerta para oportunidades, mas sua ganância pode cegá-la para perigo",
-  "Bento": "Seu ceticismo é uma forma de cuidado com a vila, mesmo que áspero - temos mais e"
+ "Alex": {
+  "Damaris": "Competente sob pressão, seja lá quem seja",
+  "Felipe": "Espero que não seja ele o ferido sério",
+  "Gleidy": "Idem acima"
  },
- "Bento": {
-  "Luna": "Mulher de bom senso, sabe ouvir. Confia demais em estranhos, mas tem um coração ",
-  "Mila": "Olho vivo demais em negócio. Pode ser útil, mas precisa de alguém vigilante pra ",
-  "Arthur": "Sujeito estranho, fala como quem carrega maldição mesmo. Pelo menos não tá sendo"
+ "Damaris": {
+  "Alex": "Tipo, já gostava dele, mas ver a confiança desse cara sob pressão? Impressionant"
  },
- "Mila": {
-  "Arthur": "Dramático sim, mas pelo menos avisa quando algo cheira a cilada - vou ficar de o",
-  "Luna": "Ingênua mesmo, quer resolver tudo com chá de camomila... mas admito, ela consegu",
-  "Bento": "Cético e observador, respeito isso - alguém com bom senso nessa vila maluca"
+ "Felipe": {
+  "Alex": "Cara competente, sabe o que tá fazendo mesmo sob pressão. Eu teria feito algo pa",
+  "Damaris": "Tá mantendo todo mundo de cabeça erguida com essas garrafas que achou. Pelo meno"
  },
- "Arthur": {
-  "Luna": "Ingênua demais, mas tem um coração que não deveria existir em um lugar como este",
-  "Bento": "Pelo menos não é totalmente cego. Desconfiado como eu - talvez tenhamos algo em ",
-  "Mila": "Confirmado: ganância disfarçada de curiosidade. Já está de olho no mercador como"
+ "Gleidy": {
+  "Alex": "Competente e calmo sob pressão. Confio que ele sabe o que tá fazendo.",
+  "Damaris": "Sua energia e esperança ajudam, mesmo nesse momento difícil.",
+  "Felipe": "Realista e sensato. Ele tem razão sobre a água."
  }
 }
