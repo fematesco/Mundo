@@ -1,13 +1,13 @@
 {
  "inicio": "2026-09-24T00:52:51.860852-03:00",
- "ultimo": "2026-09-24T16:46:56.579630-03:00",
+ "ultimo": "2026-09-24T19:59:59.819589-03:00",
  "recursos": {
-  "agua": 14.311233603888889,
+  "agua": 7.876100293333333,
   "comida": 0,
   "abrigo": 55.0,
   "fogo": 0,
   "saude": 63.0,
-  "moral": 44.2461666395,
+  "moral": 43.280896642916666,
   "sinalizacao": 0
  },
  "marcos": [
@@ -18,7 +18,8 @@
   "Uma mala com garrafas de água e snacks é achada entre os destroços.",
   "Um bando de caranguejos aparece na areia: comida em potencial.",
   "A maré sobe e leva parte dos objetos que estavam na areia.",
-  "Uma pequena explosão no motor destruído assusta todos e os afasta da fuselagem."
+  "Uma pequena explosão no motor destruído assusta todos e os afasta da fuselagem.",
+  "O sol forte e a falta de sombra causam insolação leve em alguém do grupo."
  ],
  "historia": [
   "D1 · 00:52: Alex estabilizou o ferimento grave com o kit de primeiros socorros, evitando uma deterioração crítica da saúde do grupo. Damaris e Felipe garantiram um abrigo básico protegido do vento e mantiveram a moral através do diálogo constante, enquanto Gleidy monitorava o ferido durante a vigília. O grupo conquistou sobrevivência imediata, mas a água está perigosamente baixa (18/100) e o fogo segue ausente na madrugada gelada.",
@@ -27,7 +28,8 @@
   "D1 · 06:11: Grupo reage rápido à maré alta, salva garrafas e suprimentos críticos. Perdem alguns snacks, mas mantêm recursos essenciais. Coesão e reação estratégica fortalecem moral.",
   "D1 · 11:37: Grupo trabalha contra o relógio: abrigo melhorado, madeira seca reunida, mas fogo ainda ausente. Tensão extrema com anoitecer iminente e recursos críticos esgotando.",
   "D1 · 16:26: Abrigo significativamente reforçado. Água doce descoberta alivia crise hídrica. Explosão afasta grupo da fuselagem perigosa, mas trauma e tensão aumentam.",
-  "D1 · 16:46: ```json { \"balanco\": \"Grupo repovoado pela água doce e abrigo consolidado. Explosão traumatizou mas coesão manteve-se. Fogo segue crítico com anoitecer iminente.\", \"delta\": { \"agua\": +8, \"comida\": 0, \"abrigo\": +5, \"fogo\": 0, \"saude\": -2, \"moral\": +3, \"sinalizacao\": 0 }, \"itens_novos\": [ \"2x garrafas"
+  "D1 · 16:46: ```json { \"balanco\": \"Grupo repovoado pela água doce e abrigo consolidado. Explosão traumatizou mas coesão manteve-se. Fogo segue crítico com anoitecer iminente.\", \"delta\": { \"agua\": +8, \"comida\": 0, \"abrigo\": +5, \"fogo\": 0, \"saude\": -2, \"moral\": +3, \"sinalizacao\": 0 }, \"itens_novos\": [ \"2x garrafas",
+  "D1 · 19:59: ```json { \"balanco\": \"Abrigo robusto e água reabastecida. Gleidy sofre insolação leve. Fogo permanece crítico. Sistema de turnos noturnos implementado. Coesão mantida apesar do trauma e desgaste físico.\", \"delta\": { \"agua\": +3, \"comida\": 0, \"abrigo\": +8, \"fogo\": 0, \"saude\": -5, \"moral\": +2, \"sinaliz"
  ],
  "itens": [
   "destroços do avião na praia",
