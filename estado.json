@@ -1,16 +1,18 @@
 {
  "inicio": "2026-09-24T00:52:51.860852-03:00",
- "ultimo": "2026-09-24T06:11:37.176799-03:00",
+ "ultimo": "2026-09-24T11:37:15.166717-03:00",
  "recursos": {
-  "agua": 8.576123136111113,
-  "comida": 9.038061568055557,
-  "abrigo": 13.0,
+  "agua": 0,
+  "comida": 1.6108421463888911,
+  "abrigo": 35.0,
   "fogo": 0,
-  "saude": 74.0,
-  "moral": 67.42278354208332,
+  "saude": 71.0,
+  "moral": 57.79461771558333,
   "sinalizacao": 0
  },
- "marcos": [],
+ "marcos": [
+  0
+ ],
  "usados": [
   "Um ferimento mais sério é notado e precisa ser tratado com o kit de primeiros socorros.",
   "Uma mala com garrafas de água e snacks é achada entre os destroços.",
@@ -21,7 +23,8 @@
   "D1 · 00:52: Alex estabilizou o ferimento grave com o kit de primeiros socorros, evitando uma deterioração crítica da saúde do grupo. Damaris e Felipe garantiram um abrigo básico protegido do vento e mantiveram a moral através do diálogo constante, enquanto Gleidy monitorava o ferido durante a vigília. O grupo conquistou sobrevivência imediata, mas a água está perigosamente baixa (18/100) e o fogo segue ausente na madrugada gelada.",
   "D1 · 00:58: A descoberta da mala com água e snacks transformou o moral do grupo — a tensão pela desidratação iminente foi substituída por alívio temporário e esperança renovada. Felipe consolidou seu papel como scout do grupo, enquanto Alex mantém a disciplina no racionamento. A madrugada gelada persiste sem fogo, mas o grupo respira melhor.",
   "D1 · 01:17: Grupo mantém vigilância noturna estratégica. Caranguejos identificados para caçada matinal. Moral estabilizada por esperança de proteína. Água crítica persiste.",
-  "D1 · 06:11: Grupo reage rápido à maré alta, salva garrafas e suprimentos críticos. Perdem alguns snacks, mas mantêm recursos essenciais. Coesão e reação estratégica fortalecem moral."
+  "D1 · 06:11: Grupo reage rápido à maré alta, salva garrafas e suprimentos críticos. Perdem alguns snacks, mas mantêm recursos essenciais. Coesão e reação estratégica fortalecem moral.",
+  "D1 · 11:37: Grupo trabalha contra o relógio: abrigo melhorado, madeira seca reunida, mas fogo ainda ausente. Tensão extrema com anoitecer iminente e recursos críticos esgotando."
  ],
  "itens": [
   "destroços do avião na praia",
@@ -29,7 +32,10 @@
   "2x garrafas plásticas intactas",
   "Lanterna de emergência",
   "Garrafas de água (múltiplas unidades)",
-  "Snacks variados (biscoitos, barras de cereal, chocolates)"
+  "Snacks variados (biscoitos, barras de cereal, chocolates)",
+  "Madeira seca e galhos (quantidade moderada)",
+  "Madeira compensada da fuselagem",
+  "Estrutura de abrigo parcialmente reforçada com tecidos e espuma"
  ],
  "fim": false
 }
