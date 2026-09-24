@@ -20,9 +20,9 @@ jobs:
       - run: |
           git config user.name bot
           git config user.email bot@example.com
-          git add mundo.md relacoes.json
+          git add mundo.md relacoes.json estado.json
           git commit -m turno || exit 0
           git push
       - name: Notificar
         run: |
-          tail -n 5 mundo.md | sed 's/\*//g' | curl -s -H "Title: Vila" -d @- https://ntfy.sh/vila-fema-7391xk
+          tail -n 7 mundo.md | sed 's/\*//g' | curl -s -H "Title: Vila" -d @- https://ntfy.sh/vila-fema-7391xk
