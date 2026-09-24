@@ -1,23 +1,25 @@
 {
  "inicio": "2026-09-24T00:52:51.860852-03:00",
- "ultimo": "2026-09-24T00:58:54.198444-03:00",
+ "ultimo": "2026-09-24T01:17:31.017487-03:00",
  "recursos": {
-  "agua": 19.0,
-  "comida": 17.25,
+  "agua": 16.379544976111113,
+  "comida": 16.939772488055556,
   "abrigo": 13.0,
   "fogo": 0,
-  "saude": 70.0,
-  "moral": 61.125,
+  "saude": 72.0,
+  "moral": 64.89329681808333,
   "sinalizacao": 0
  },
  "marcos": [],
  "usados": [
   "Um ferimento mais sério é notado e precisa ser tratado com o kit de primeiros socorros.",
-  "Uma mala com garrafas de água e snacks é achada entre os destroços."
+  "Uma mala com garrafas de água e snacks é achada entre os destroços.",
+  "Um bando de caranguejos aparece na areia: comida em potencial."
  ],
  "historia": [
   "D1 · 00:52: Alex estabilizou o ferimento grave com o kit de primeiros socorros, evitando uma deterioração crítica da saúde do grupo. Damaris e Felipe garantiram um abrigo básico protegido do vento e mantiveram a moral através do diálogo constante, enquanto Gleidy monitorava o ferido durante a vigília. O grupo conquistou sobrevivência imediata, mas a água está perigosamente baixa (18/100) e o fogo segue ausente na madrugada gelada.",
-  "D1 · 00:58: A descoberta da mala com água e snacks transformou o moral do grupo — a tensão pela desidratação iminente foi substituída por alívio temporário e esperança renovada. Felipe consolidou seu papel como scout do grupo, enquanto Alex mantém a disciplina no racionamento. A madrugada gelada persiste sem fogo, mas o grupo respira melhor."
+  "D1 · 00:58: A descoberta da mala com água e snacks transformou o moral do grupo — a tensão pela desidratação iminente foi substituída por alívio temporário e esperança renovada. Felipe consolidou seu papel como scout do grupo, enquanto Alex mantém a disciplina no racionamento. A madrugada gelada persiste sem fogo, mas o grupo respira melhor.",
+  "D1 · 01:17: Grupo mantém vigilância noturna estratégica. Caranguejos identificados para caçada matinal. Moral estabilizada por esperança de proteína. Água crítica persiste."
  ],
  "itens": [
   "destroços do avião na praia",
