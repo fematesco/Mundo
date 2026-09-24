@@ -1,18 +1,22 @@
 {
  "Luna": {
-  "Arthur": "Um homem ferido que se esconde atrás da resignação, mas sinto que há esperança d"
+  "Arthur": "Um homem ferido que se esconde atrás da resignação, mas vejo agora uma certa pro",
+  "Mila": "Ambiciosa e alerta para oportunidades, mas sua ganância pode cegá-la para perigo",
+  "Bento": "Seu ceticismo é uma forma de cuidado com a vila, mesmo que áspero - temos mais e"
  },
  "Bento": {
-  "Luna": "Mulher de bom senso, sabe ouvir. Confia demais em estranho, mas tem um coração q"
+  "Luna": "Mulher de bom senso, sabe ouvir. Confia demais em estranhos, mas tem um coração ",
+  "Mila": "Olho vivo demais em negócio. Pode ser útil, mas precisa de alguém vigilante pra ",
+  "Arthur": "Sujeito estranho, fala como quem carrega maldição mesmo. Pelo menos não tá sendo"
  },
  "Mila": {
-  "Arthur": "Tipo dramático demais, mas se ele realmente carrega alguma maldição, talvez tenh",
-  "Luna": "Ingênua, mas tem acesso a conhecimento sobre ervas - pode ser útil para negócios",
+  "Arthur": "Dramático sim, mas pelo menos avisa quando algo cheira a cilada - vou ficar de o",
+  "Luna": "Ingênua mesmo, quer resolver tudo com chá de camomila... mas admito, ela consegu",
   "Bento": "Cético e observador, respeito isso - alguém com bom senso nessa vila maluca"
  },
  "Arthur": {
   "Luna": "Ingênua demais, mas tem um coração que não deveria existir em um lugar como este",
   "Bento": "Pelo menos não é totalmente cego. Desconfiado como eu - talvez tenhamos algo em ",
-  "Mila": "Ganância disfarçada de curiosidade. Típico."
+  "Mila": "Confirmado: ganância disfarçada de curiosidade. Já está de olho no mercador como"
  }
 }
