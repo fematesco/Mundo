@@ -1,13 +1,13 @@
 {
  "inicio": "2026-09-24T00:52:51.860852-03:00",
- "ultimo": "2026-09-25T16:48:37.734951-03:00",
+ "ultimo": "2026-09-25T20:03:48.336761-03:00",
  "recursos": {
   "agua": 0,
   "comida": 0,
   "abrigo": 55.0,
-  "fogo": 11.698398149166671,
+  "fogo": 8.44545320194445,
   "saude": 63.0,
-  "moral": 49.03773702941667,
+  "moral": 48.06185354525,
   "sinalizacao": 0
  },
  "marcos": [
@@ -22,7 +22,8 @@
   "Uma pequena explosão no motor destruído assusta todos e os afasta da fuselagem.",
   "O sol forte e a falta de sombra causam insolação leve em alguém do grupo.",
   "Uma mochila de mão com isqueiro e canivete é encontrada entre os destroços.",
-  "Um cardume grande aparece perto da praia: ótima chance de pescar."
+  "Um cardume grande aparece perto da praia: ótima chance de pescar.",
+  "Uma mala com roupas quentes e cobertores boia até a praia."
  ],
  "historia": [
   "D1 · 00:52: Alex estabilizou o ferimento grave com o kit de primeiros socorros, evitando uma deterioração crítica da saúde do grupo. Damaris e Felipe garantiram um abrigo básico protegido do vento e mantiveram a moral através do diálogo constante, enquanto Gleidy monitorava o ferido durante a vigília. O grupo conquistou sobrevivência imediata, mas a água está perigosamente baixa (18/100) e o fogo segue ausente na madrugada gelada.",
@@ -36,7 +37,8 @@
   "D1 · 00:21: Descoberta crítica: isqueiro e canivete encontrados nos destroços. Grupo revitalizado com esperança real de fogo. Madrugada gelada persiste, mas virada iminente com ferramenta decisiva em mãos.",
   "D2 · 06:21: ```json { \"balanco\": \"Fogo finalmente aceso após descoberta do isqueiro — moral disparou. Água identificada com fonte melhor, mas garrafas críticas. Grupo coeso, cansaço físico aumenta.\", \"delta\": { \"agua\": -2, \"comida\": 0, \"abrigo\": 0, \"fogo\": +22, \"saude\": -3, \"moral\": +12, \"sinalizacao\": 0 }, \"it",
   "D2 · 11:58: ```json { \"balanco\": \"Fogo consolidado após vigília noturna. Água reabastecida no riacho. Grupo energizado pelo cardume — primeira oportunidade real de proteína fresca desperta esperança genuína e coesão.\", \"delta\": { \"agua\": +5, \"comida\": 0, \"abrigo\": 0, \"fogo\": +8, \"saude\": -2, \"moral\": +8, \"sinal",
-  "D2 · 16:48: ```json { \"balanco\": \"Pesca bem-sucedida com 3-4 peixes pequenos assando. Sistema de água melhorado. Frutas comestíveis encontradas. Grupo organizado e coeso, mas fogo e água ainda críticos.\", \"delta\": { \"agua\": 0, \"comida\": +12, \"abrigo\": 0, \"fogo\": -3, \"saude\": +2, \"moral\": +8, \"sinalizacao\": 0 },"
+  "D2 · 16:48: ```json { \"balanco\": \"Pesca bem-sucedida com 3-4 peixes pequenos assando. Sistema de água melhorado. Frutas comestíveis encontradas. Grupo organizado e coeso, mas fogo e água ainda críticos.\", \"delta\": { \"agua\": 0, \"comida\": +12, \"abrigo\": 0, \"fogo\": -3, \"saude\": +2, \"moral\": +8, \"sinalizacao\": 0 },",
+  "D2 · 20:03: ```json { \"balanco\": \"Descoberta transformadora: mala com roupas quentes e cobertores resgata moral do grupo. Abrigo reorganizado, roupas secas perto do fogo. Noites geladas deixam de ser ameaça existencial.\", \"delta\": { \"agua\": 0, \"comida\": 0, \"abrigo\": +12, \"fogo\": 0, \"saude\": +4, \"moral\": +18, \"s"
  ],
  "itens": [
   "destroços do avião na praia",
