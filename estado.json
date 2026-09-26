@@ -1,18 +1,19 @@
 {
  "inicio": "2026-09-24T00:52:51.860852-03:00",
- "ultimo": "2026-09-26T00:26:43.477790-03:00",
+ "ultimo": "2026-09-26T06:04:40.689801-03:00",
  "recursos": {
   "agua": 0,
   "comida": 0,
   "abrigo": 55.0,
-  "fogo": 4.063469582777783,
+  "fogo": 0,
   "saude": 63.0,
-  "moral": 46.7472584595,
+  "moral": 45.05749079191667,
   "sinalizacao": 0
  },
  "marcos": [
   0,
-  1
+  1,
+  2
  ],
  "usados": [
   "Um ferimento mais sério é notado e precisa ser tratado com o kit de primeiros socorros.",
@@ -39,7 +40,8 @@
   "D2 · 11:58: ```json { \"balanco\": \"Fogo consolidado após vigília noturna. Água reabastecida no riacho. Grupo energizado pelo cardume — primeira oportunidade real de proteína fresca desperta esperança genuína e coesão.\", \"delta\": { \"agua\": +5, \"comida\": 0, \"abrigo\": 0, \"fogo\": +8, \"saude\": -2, \"moral\": +8, \"sinal",
   "D2 · 16:48: ```json { \"balanco\": \"Pesca bem-sucedida com 3-4 peixes pequenos assando. Sistema de água melhorado. Frutas comestíveis encontradas. Grupo organizado e coeso, mas fogo e água ainda críticos.\", \"delta\": { \"agua\": 0, \"comida\": +12, \"abrigo\": 0, \"fogo\": -3, \"saude\": +2, \"moral\": +8, \"sinalizacao\": 0 },",
   "D2 · 20:03: ```json { \"balanco\": \"Descoberta transformadora: mala com roupas quentes e cobertores resgata moral do grupo. Abrigo reorganizado, roupas secas perto do fogo. Noites geladas deixam de ser ameaça existencial.\", \"delta\": { \"agua\": 0, \"comida\": 0, \"abrigo\": +12, \"fogo\": 0, \"saude\": +4, \"moral\": +18, \"s",
-  "D2 · 00:26: ```json { \"balanco\": \"Madrugada produtiva: abrigo isolado, fogo estabilizado através de vigília coordenada, comida protegida de fauna. Grupo coeso executa sistemas eficientes. Água e sinalizacao permanecem críticas.\", \"delta\": { \"agua\": 0, \"comida\": 0, \"abrigo\": +6, \"fogo\": +5, \"saude\": +1, \"moral\":"
+  "D2 · 00:26: ```json { \"balanco\": \"Madrugada produtiva: abrigo isolado, fogo estabilizado através de vigília coordenada, comida protegida de fauna. Grupo coeso executa sistemas eficientes. Água e sinalizacao permanecem críticas.\", \"delta\": { \"agua\": 0, \"comida\": 0, \"abrigo\": +6, \"fogo\": +5, \"saude\": +1, \"moral\":",
+  "D3 · 06:04: ```json { \"balanco\": \"Nascente de água doce encontrada e estabelecida como base permanente. Grupo reorganiza acampamento com esperança renovada. Água crítica finalmente resolvida após dias de angústia existencial.\", \"delta\": { \"agua\": +45, \"comida\": 0, \"abrigo\": +15, \"fogo\": -5, \"saude\": +3, \"moral\""
  ],
  "itens": [
   "destroços do avião na praia",
