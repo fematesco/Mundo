@@ -1,13 +1,13 @@
 {
  "inicio": "2026-09-24T00:52:51.860852-03:00",
- "ultimo": "2026-09-27T11:58:35.331983-03:00",
+ "ultimo": "2026-09-27T16:30:55.364061-03:00",
  "recursos": {
   "agua": 0,
   "comida": 0,
   "abrigo": 43.0,
   "fogo": 0,
   "saude": 55.0,
-  "moral": 21.08793727675,
+  "moral": 19.726267936916667,
   "sinalizacao": 0
  },
  "marcos": [
@@ -52,7 +52,8 @@
   "D3 · 19:21: ```json { \"balanco\": \"Grupo descobre árvore frutífera promissora mas desconhecida. Prudência prevalece: ninguém arrisca envenenamento. Abrigo consolidado, moral cresce com oportunidade, tensão por fogo e água críticos.\", \"delta\": { \"agua\": 0, \"comida\": 0, \"abrigo\": 0, \"fogo\": -8, \"saude\": -2, \"moral",
   "D3 · 00:34: ```json { \"balanco\": \"Madrugada produtiva: vigília coordenada estabiliza fogo precário. Descoberta amarga — predador astuto rouba ovos protéicos. Grupo reorganiza armazenamento elevado, tensão crítica em água e comida ressurge.\", \"delta\": { \"agua\": 0, \"comida\": -8, \"abrigo\": +3, \"fogo\": +4, \"saude\":",
   "D4 · 06:48: Tempestade tropical devasta acampamento. Abrigo reforçado resiste precariamente. Fogo protegido com dificuldade. Grupo assustado mas coeso. Água e comida críticas — sobrevivência em fio de navalha.",
-  "D4 · 11:58: ```json { \"balanco\": \"Madrugada de vigília coordenada salva fogo da tempestade. Amanhecer revela abrigo danificado, moral frágil. Água e comida críticas ameaçam coesão do grupo.\", \"delta\": { \"agua\": 0, \"comida\": 0, \"abrigo\": -8, \"fogo\": +6, \"saude\": -3, \"moral\": -12, \"sinalizacao\": 0 }, \"itens_novos"
+  "D4 · 11:58: ```json { \"balanco\": \"Madrugada de vigília coordenada salva fogo da tempestade. Amanhecer revela abrigo danificado, moral frágil. Água e comida críticas ameaçam coesão do grupo.\", \"delta\": { \"agua\": 0, \"comida\": 0, \"abrigo\": -8, \"fogo\": +6, \"saude\": -3, \"moral\": -12, \"sinalizacao\": 0 }, \"itens_novos",
+  "D4 · 16:30: ```json { \"balanco\": \"Reconstrução pós-tempestade avança: abrigo reforçado, fogo restaurado, suprimentos secos salvaguardados. Mas água e comida permanecem críticas — exploração produtiva não compensou deficiências existenciais. Coesão frágil.\", \"delta\": { \"agua\": 0, \"comida\": 0, \"abrigo\": +12, \"fog"
  ],
  "itens": [
   "destroços do avião na praia",
