@@ -1,19 +1,20 @@
 {
  "inicio": "2026-09-24T00:52:51.860852-03:00",
- "ultimo": "2026-09-27T00:34:57.303359-03:00",
+ "ultimo": "2026-09-27T06:48:11.463722-03:00",
  "recursos": {
   "agua": 0,
   "comida": 0,
-  "abrigo": 55.0,
+  "abrigo": 43.0,
   "fogo": 0,
-  "saude": 63.0,
-  "moral": 39.50610632875,
+  "saude": 55.0,
+  "moral": 22.6399262985,
   "sinalizacao": 0
  },
  "marcos": [
   0,
   1,
-  2
+  2,
+  3
  ],
  "usados": [
   "Um ferimento mais sério é notado e precisa ser tratado com o kit de primeiros socorros.",
@@ -49,7 +50,8 @@
   "D3 · 11:04: ```json { \"balanco\": \"Madrugada crítica de vigília mantém fogo vivo por fio. Amanhecer traz descoberta transformadora: ninho de tartaruga com ovos frescos reaviva esperança do grupo. Proteína garantida redefine perspectiva de sobrevivência.\", \"delta\": { \"agua\": 0, \"comida\": +18, \"abrigo\": 0, \"fogo\":",
   "D3 · 15:58: ```json { \"balanco\": \"Grupo aprende rapidamente com falhas: abrigo reforçado com drenagem melhorada, madeira seca acumulada, ovos protegidos. Resiliência crescente, mas estrutura ainda precária ante próxima chuva.\", \"delta\": { \"agua\": 0, \"comida\": 0, \"abrigo\": +18, \"fogo\": +3, \"saude\": -1, \"moral\": ",
   "D3 · 19:21: ```json { \"balanco\": \"Grupo descobre árvore frutífera promissora mas desconhecida. Prudência prevalece: ninguém arrisca envenenamento. Abrigo consolidado, moral cresce com oportunidade, tensão por fogo e água críticos.\", \"delta\": { \"agua\": 0, \"comida\": 0, \"abrigo\": 0, \"fogo\": -8, \"saude\": -2, \"moral",
-  "D3 · 00:34: ```json { \"balanco\": \"Madrugada produtiva: vigília coordenada estabiliza fogo precário. Descoberta amarga — predador astuto rouba ovos protéicos. Grupo reorganiza armazenamento elevado, tensão crítica em água e comida ressurge.\", \"delta\": { \"agua\": 0, \"comida\": -8, \"abrigo\": +3, \"fogo\": +4, \"saude\":"
+  "D3 · 00:34: ```json { \"balanco\": \"Madrugada produtiva: vigília coordenada estabiliza fogo precário. Descoberta amarga — predador astuto rouba ovos protéicos. Grupo reorganiza armazenamento elevado, tensão crítica em água e comida ressurge.\", \"delta\": { \"agua\": 0, \"comida\": -8, \"abrigo\": +3, \"fogo\": +4, \"saude\":",
+  "D4 · 06:48: Tempestade tropical devasta acampamento. Abrigo reforçado resiste precariamente. Fogo protegido com dificuldade. Grupo assustado mas coeso. Água e comida críticas — sobrevivência em fio de navalha."
  ],
  "itens": [
   "destroços do avião na praia",
