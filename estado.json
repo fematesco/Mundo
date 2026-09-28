@@ -1,13 +1,13 @@
 {
  "inicio": "2026-09-24T00:52:51.860852-03:00",
- "ultimo": "2026-09-28T00:33:14.545580-03:00",
+ "ultimo": "2026-09-28T07:31:53.961860-03:00",
  "recursos": {
   "agua": 0,
   "comida": 0,
   "abrigo": 43.0,
   "fogo": 0,
   "saude": 55.0,
-  "moral": 17.314669477000002,
+  "moral": 15.221384787000002,
   "sinalizacao": 0
  },
  "marcos": [
@@ -31,7 +31,8 @@
   "Frutas desconhecidas são achadas numa árvore; ninguém sabe se são seguras.",
   "Um bicho esperto rouba comida do acampamento.",
   "Alguém tem febre depois de comer algo suspeito.",
-  "A água da nascente fica turva e precisa ser fervida."
+  "A água da nascente fica turva e precisa ser fervida.",
+  "Ferramentas antigas e enferrujadas aparecem na caverna, sugerindo visitantes antigos."
  ],
  "historia": [
   "D1 · 00:52: Alex estabilizou o ferimento grave com o kit de primeiros socorros, evitando uma deterioração crítica da saúde do grupo. Damaris e Felipe garantiram um abrigo básico protegido do vento e mantiveram a moral através do diálogo constante, enquanto Gleidy monitorava o ferido durante a vigília. O grupo conquistou sobrevivência imediata, mas a água está perigosamente baixa (18/100) e o fogo segue ausente na madrugada gelada.",
@@ -57,7 +58,8 @@
   "D4 · 11:58: ```json { \"balanco\": \"Madrugada de vigília coordenada salva fogo da tempestade. Amanhecer revela abrigo danificado, moral frágil. Água e comida críticas ameaçam coesão do grupo.\", \"delta\": { \"agua\": 0, \"comida\": 0, \"abrigo\": -8, \"fogo\": +6, \"saude\": -3, \"moral\": -12, \"sinalizacao\": 0 }, \"itens_novos",
   "D4 · 16:30: ```json { \"balanco\": \"Reconstrução pós-tempestade avança: abrigo reforçado, fogo restaurado, suprimentos secos salvaguardados. Mas água e comida permanecem críticas — exploração produtiva não compensou deficiências existenciais. Coesão frágil.\", \"delta\": { \"agua\": 0, \"comida\": 0, \"abrigo\": +12, \"fog",
   "D4 · 19:48: ```json { \"balanco\": \"Vigília coordenada mantém fogo estável. Armazenamento elevado protege comida de predadores. Mas Felipe desenvolve febre alta após frutas desconhecidas. Grupo enfrenta doença enquanto água e comida permanecem criticamente baixas.\", \"delta\": { \"agua\": 0, \"comida\": 0, \"abrigo\": 0,",
-  "D4 · 00:33: ```json { \"balanco\": \"Madrugada de crise sanitária: água turva fervida salva Felipe de desidratação crítica. Grupo exausto mantém fogo, moral desaba sob tensão de escassez absoluta.\", \"delta\": { \"agua\": +8, \"comida\": 0, \"abrigo\": 0, \"fogo\": +2, \"saude\": +5, \"moral\": -8, \"sinalizacao\": 0 }, \"itens_no"
+  "D4 · 00:33: ```json { \"balanco\": \"Madrugada de crise sanitária: água turva fervida salva Felipe de desidratação crítica. Grupo exausto mantém fogo, moral desaba sob tensão de escassez absoluta.\", \"delta\": { \"agua\": +8, \"comida\": 0, \"abrigo\": 0, \"fogo\": +2, \"saude\": +5, \"moral\": -8, \"sinalizacao\": 0 }, \"itens_no",
+  "D5 · 07:31: ```json { \"balanco\": \"Exploração revela ferramentas antigas na caverna — evidência de visitantes passados alimenta esperança frágil. Felipe recupera-se lentamente. Água e comida permanecem criticamente baixas, tensão extrema.\", \"delta\": { \"agua\": 0, \"comida\": 0, \"abrigo\": +2, \"fogo\": +1, \"saude\": +3"
  ],
  "itens": [
   "destroços do avião na praia",
